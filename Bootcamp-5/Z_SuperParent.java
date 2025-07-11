@@ -9,11 +9,11 @@
  * * The `Sub` class extends the `Super` class, and when an object of `Sub` is created, the constructor of `Super` is invoked first.
  * * This is because the subclass constructor implicitly calls the superclass constructor using `super()`.
  * @package A_Boot_Camp.Day5  
- * @author Dr. S. Sampath Kumar
- * @since 10-07-2025
+ * @author Manojkumar S
+ * @since 11-07-2025
  * @version 1.0
  */
-package A_Boot_Camp.Day5;
+//package A_Boot_Camp.Day5;
 class Parent {
     Parent() {
         System.out.println("Parent class constructor called.");

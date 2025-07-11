@@ -11,11 +11,11 @@
  * * This is a common practice in Java to achieve runtime polymorphism.
 
  * @package A_Boot_Camp.Day5
- * @author Dr. S. Sampath Kumar
- * @since 10-07-2025
+ * @author Manojkumar S
+ * @since 11-07-2025
  * @version 1.0
  */
-package A_Boot_Camp.Day5;
+//package A_Boot_Camp.Day5;
 
 class BaseClass { 
 	// Constructor of Base Class
@@ -48,7 +48,8 @@ public class C_OverRiding {
 	public static void main (String args []) { 
 		BaseClass obj1 = new BaseClass(); 	
 		obj1.methodA(); 
-		DerivedClass obj2 = new DerivedClass(); 
+		BaseClass obj2 =new DerivedClass();
+		//DerivedClass obj2 = new DerivedClass(); 
 		obj2.methodA(); 
 	} 
 }

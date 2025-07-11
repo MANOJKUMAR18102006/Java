@@ -4,11 +4,11 @@
  * *    
 
  * @package A_Boot_Camp.Day5
- * @author Dr. S. Sampath Kumar
- * @since 10-07-2025
+ * @author Manojkumar S
+ * @since 11-07-2025
  * @version 1.0
  */
-package A_Boot_Camp.Day5;
+//package A_Boot_Camp.Day5;
 
 public class H_MethodOverriding { 
 	public static void main (String args []) { 
