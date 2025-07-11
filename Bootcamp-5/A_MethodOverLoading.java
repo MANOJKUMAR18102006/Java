@@ -5,11 +5,11 @@
  * * class to have the same name with different parameters.
 
  * @package A_Boot_Camp.Day5
- * @author Dr. S. Sampath Kumar
- * @since 10-07-2025
+ * @author Manoojkumar S
+ * @since 11-07-2025
  * @version 1.0
  */
-package A_Boot_Camp.Day5;
+//package A_Boot_Camp.Day5;
 
 class StaticMethodPoly { 
 	// Method overloading: same method name with different parameters
